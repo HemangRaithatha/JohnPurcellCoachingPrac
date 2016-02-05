@@ -1,0 +1,26 @@
+
+public class App2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Animal animal = Animal.DOG;
+		
+		switch (animal){
+		case CAT:
+			System.out.println("CAT");
+			break;
+		case DOG:
+			System.out.println("DOG");
+			break;
+		case MOUSE:
+			System.out.println("MOUSE");
+			break;
+		default:
+			break;
+		
+		}
+
+	}
+
+}

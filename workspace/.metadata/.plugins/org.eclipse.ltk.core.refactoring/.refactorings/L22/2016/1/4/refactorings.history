@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;L22&apos;&#x0D;&#x0A;- Original project: &apos;L22&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     L22/src/(default package)&#x0D;&#x0A;     L22/src/l22try2&#x0D;&#x0A;     L22/src/l22try3&#x0D;&#x0A;     L22/src/l22try4" description="Delete elements" element1="/src&lt;l22try4" element2="/src&lt;l22try3" element3="/src&lt;l22try2" element4="/src&lt;" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1453350545144" subPackages="false" version="1.0"/>
+</session>

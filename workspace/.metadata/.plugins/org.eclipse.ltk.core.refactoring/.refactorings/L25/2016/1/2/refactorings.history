@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;L25/src/pack2&apos;&#x0D;&#x0A;- Original project: &apos;L25&apos;&#x0D;&#x0A;- Destination element: &apos;L25/src/pack2&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Oak.java&#x0D;&#x0A;     Feild.java&#x0D;&#x0A;     Plant.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;pack2" element1="/src&lt;{Oak.java" element2="/src&lt;{Feild.java" element3="/src&lt;{Plant.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1451913328340" units="3" version="1.0"/>
+</session>

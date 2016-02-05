@@ -1,0 +1,35 @@
+package l44try1;
+
+public class Application {
+
+	public final static int CAT = 0;
+	public final static int DOG = 1;
+	public final static int MOUSE = 2;
+
+	public static void main(String[] args) {
+
+		int animal = 111;
+
+		switch (animal) {
+
+		case CAT:
+			System.out.println("CAT");
+			break;
+
+		case DOG:
+			System.out.println("DOG");
+			break;
+		case MOUSE:
+			System.out.println("Mouse");
+			break;
+		default:
+			System.out.println("This input is not accepted");
+			break;
+
+		}
+		
+		
+
+	}
+
+}
